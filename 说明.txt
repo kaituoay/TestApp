@@ -1,0 +1,8 @@
+conf   配置文件
+controllers 业务逻辑
+models 对象模型、功能模块
+routers 路由配置
+static 静态文件（css、img、js）
+test 测试代码
+views 模板文件 （html、tpl）
+main.go 程序入口
